@@ -1,2 +1,2 @@
-import date
 print('hello,word')
+print('c')
