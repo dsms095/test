@@ -13,8 +13,6 @@ url_list = ['https://www.baidu.com/',
 'https://www.sina.com.cn/',
 'http://www.sohu.com/',
 'https://www.qq.com/',
-'https://www.163.com/',
-'http://www.iqiyi.com/',
 'https://www.tmall.com/',
 'http://www.ifeng.com/']
 
